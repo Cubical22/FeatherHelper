@@ -1,0 +1,6 @@
+mods.FeatherHelper.name=Feather Helper
+
+entities.FeatherHelper/FeatherBarrier.placements.name.default=Feather Barrier (normal)
+entities.FeatherHelper/FeatherFilter.placements.name.default=Feather Filter (normal)
+entities.FeatherHelper/ConnectionDisplay.placements.name.triple=Connection Display (triple)
+entities.FeatherHelper/ConnectionDisplay.placements.name.default=Connection Display (normal)
